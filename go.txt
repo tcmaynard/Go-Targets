@@ -13,3 +13,4 @@ netrexx|C:\Users\Tom\netrexx
 doc|C:\Users\Tom\Documents
 down|C:\Users\Tom\downloads
 go|C:\Users\Tom\appdata\local\go
+bun|C:\Users\Tom\vimfiles\bundle
