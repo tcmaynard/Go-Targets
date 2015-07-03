@@ -7,3 +7,7 @@ go targets.
 
 Keeping them safe and sound (and reasonably current) here is just a comfort,
 not a necessity.
+
+Usage:
+  1. Clone into ~/AppData/local/go
+  2. Done!
